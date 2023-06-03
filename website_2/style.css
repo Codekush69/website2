@@ -1,0 +1,24 @@
+body{
+    background-image: url("img/bruno.jpg");
+
+   
+    
+  
+}
+.words{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 450px;
+    margin-right: 7%;
+    font-size: 5em;
+    
+}
+a:link{
+    color:rgb(119, 93, 54);
+    text
+}
+
+a:hover{
+    color: red;
+    text-decoration: wavy;
+}
